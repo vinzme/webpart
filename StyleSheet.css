@@ -1,0 +1,201 @@
+﻿body 
+{
+	margin: 0px;
+	background: #FFFFFF url(soimages/background_nav_main_dodgebl.gif) repeat-x left top;
+	font: 0.7em Verdana,Arial,Helvetica,sans-serif;
+}
+
+#wrapper
+{
+    width: 100%; clear: both;
+}
+
+#wz1
+{
+    width: 51%;
+    float: left;
+    height: 420px;
+    text-align: center;
+}
+
+#wz2    
+{
+    height:420px;
+    width:48.7%;
+    float:right;
+    text-align: center;
+}
+
+#wrapper2
+{
+    width: 100%; clear: both;
+}
+
+#wz4
+{
+    width: 51%;
+    float: left;
+    height: 420px;
+    text-align: center;
+}
+
+#wz5    
+{
+    height:420px;
+    width:48.5%;
+    float:right;
+    text-align: center;
+}
+
+#wz6
+{
+    width:.5px;
+    float:left;   
+    height:250px;
+    text-align: center;
+}
+
+#wrapper3
+{
+    width: 100%; clear: both;
+}
+
+#wz7
+{
+    width: 51%;
+    float: left;
+    height: 250px;
+    text-align: center;
+}
+
+#wz8    
+{
+    height:250px;
+    width:48.5%;
+    float:right;
+    text-align: center;
+}
+
+#wz9
+{
+    width:.5px;
+    float:left;   
+    height:250px;
+    text-align: center;
+}
+
+#wrapper4
+{
+    width: 100%; clear: both;
+}
+
+#wz10
+{
+    width: 51%;
+    float: left;
+    height: 250px;
+    text-align: center;
+}
+
+#wz11    
+{
+    height:250px;
+    width:48.5%;
+    float:right;
+    text-align: center;
+}
+
+#wz12
+{
+    width:.5px;
+    float:left;   
+    height:250px;
+    text-align: center;
+}
+
+#wrapper5
+{
+    width: 100%; clear: both;
+}
+
+#wz13
+{
+    width: 51%;
+    float: left;
+    height: 250px;
+    text-align: center;
+}
+
+#wz14    
+{
+    height:250px;
+    width:48.5%;
+    float:right;
+    text-align: center;
+}
+
+#wz15
+{
+    width:.5px;
+    float:left;   
+    height:250px;
+    text-align: center;
+}
+
+#wrapper6
+{
+    width: 100%; clear: both;
+}
+
+#wz16
+{
+    width: 51%;
+    float: left;
+    height: 250px;
+    text-align: center;
+}
+
+#wz17 
+{
+    height:250px;
+    width:48.5%;
+    float:right;
+    text-align: center;
+}
+
+#wz18
+{
+    width:.5px;
+    float:left;   
+    height:250px;
+    text-align: center;
+}
+
+#wrapper7
+{
+    width: 100%; clear: both;
+}
+
+#wz19
+{
+    width: 51%;
+    float: left;
+    height: 250px;
+    text-align: center;
+}
+
+#wz20
+{
+    height:250px;
+    width:48.5%;
+    float:right;
+    text-align: center;
+}
+
+#wz21
+{
+    width:.5px;
+    float:left;   
+    height:250px;
+    text-align: center;
+}
